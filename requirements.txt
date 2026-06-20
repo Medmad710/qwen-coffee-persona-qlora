@@ -1,0 +1,15 @@
+torch>=2.0.0
+transformers>=4.40.0
+datasets
+accelerate
+peft
+bitsandbytes
+trl>=0.8.0
+wandb
+google-genai
+pyyaml
+sentence-transformers
+numpy
+tqdm
+rouge-score
+bert-score
